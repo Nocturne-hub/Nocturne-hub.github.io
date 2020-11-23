@@ -56,5 +56,6 @@
         }
       ],
     "start_url": "index.html",
-    "background_color": "#CC3300"
+    "background_color": "#CC3300",
+    "display": "standalone"
 }
