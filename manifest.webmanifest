@@ -47,7 +47,7 @@
           "src": "icons/icon-512.png",
           "sizes": "512x512",
           "type": "image/png"
-        }
+        },
         {
             "src":"/icons/maskable_icon.png",
             "type":"image/png",
@@ -57,5 +57,5 @@
       ],
     "start_url": "index.html",
     "background_color": "#CC3300",
-    "theme_color": "#3367D6"
+    "theme_color": "#CC3300"
 }
